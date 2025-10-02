@@ -22,4 +22,5 @@ public class HierarchicalInhDemo {
 		if (p instanceof Student)
 			System.out.println("Student Details "+p);
 	}
+
 }

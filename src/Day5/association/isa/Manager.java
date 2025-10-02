@@ -29,5 +29,4 @@ public class Manager extends Employee{
 				+ ", Department=" + getDepartment() + "]";
 	}
 
-
 }

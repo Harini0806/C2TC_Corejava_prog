@@ -8,5 +8,4 @@ public class Exceutor {
 		Person person = new Person("Aniket Pawar", address);
 		person.displayInfo();
 	}
-
 }

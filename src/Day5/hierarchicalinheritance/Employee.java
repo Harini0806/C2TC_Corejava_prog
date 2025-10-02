@@ -61,4 +61,5 @@ public class Employee extends Person{
 		return "Employee [empId=" + empId + ", salary=" + salary + ", dept=" + dept + ", getName()=" + getName()
 				+ ", getCity()=" + getCity() + "]";
 	}
+	
 }

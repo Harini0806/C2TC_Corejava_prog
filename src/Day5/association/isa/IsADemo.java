@@ -10,5 +10,7 @@ public class IsADemo {
 		System.out.println(employee);
 		System.out.println("---------------------------------------------------------------");
 		System.out.println(manager);
+
 	}
+
 }

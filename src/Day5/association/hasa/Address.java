@@ -1,6 +1,8 @@
 package Day5.association.hasa;
 
+//Contained class
 public class Address {
+
 	private String street;
 	private String city;
 	private String state;
@@ -52,4 +54,5 @@ public class Address {
 	public void setPostalCode(String postalCode) {
 		this.postalCode = postalCode;
 	}
+
 }
